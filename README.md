@@ -1,6 +1,3 @@
-- 👋 Hi, I’m hyunwoo.
-- 👀 I’m interested in project management.
-- 🌱 I’m currently learning ml and dl.
 - 📫 How to reach me seohyunwoo at gmail.
 
 <!---
